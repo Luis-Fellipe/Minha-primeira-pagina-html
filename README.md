@@ -35,7 +35,7 @@ Durante esse projeto, pratiquei os seguintes conceitos:
 
 Você pode visualizar este projeto publicado no GitHub Pages:
 
-➡️ [Clique aqui para acessar](https://luis-fellipe.github.io/Minha-primeira-pagina-html/)
+➡️ [Clique aqui para acessar](https://luis-fellipe.github.io/pagina-html-basica/)
 
 📌 **Nota:** Esse projeto é focado no aprendizado de HTML e não utiliza CSS ou JavaScript.
 
